@@ -9,5 +9,5 @@
 3. The function will run continuously until user does so
 4. User can easily encrypt and decrypt the text using this project
 
-### Created by <a href="https://github.com/ArnavNagpurkar">@ArnavNagpurkar</a>
-### Follow on by <a href="https://replit.com/@ArnavNagpurkar">replit</a>
+### Created by <a href="https://github.com/ArnavNagpurkar" target="_blank">@ArnavNagpurkar</a>
+### Follow on by <a href="https://replit.com/@ArnavNagpurkar" target="_blank">replit</a>
